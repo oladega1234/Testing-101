@@ -8,7 +8,7 @@ import java.util.Random;
  * A class that models the Card Hand. A Card hand has an array of cards. 
  * How can you change the size of the hand?
  *
- * @author dancye, 2019.
+ * @author Fuwad, 2019.
  * @modified Fuwad Oladega Jan 2023
  */
 
